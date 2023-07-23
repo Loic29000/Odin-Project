@@ -1,3 +1,5 @@
+/**
+
 div {
     background-color: red;
     color: white;
@@ -15,4 +17,25 @@ p {
 button {
     background-color: orange;
     font-size: 18px;
+}
+
+**/
+.text_style {
+    background-color: lightpink;
+    font-family: "Verdana, DejaVu Sans, sans-serif";
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
