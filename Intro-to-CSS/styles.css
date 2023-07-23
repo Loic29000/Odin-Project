@@ -39,3 +39,17 @@ button {
     font-size: 24px;
     font-weight: bold;
 }
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.font28 {
+    font-family: "Helvetica, Times New Roman, sans-serif";
+    font-size: 28px;
+}
